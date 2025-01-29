@@ -11,7 +11,7 @@ The Intelligent Logistics Management System (ILMS) leverages cutting-edge techno
 - Predict delivery times with higher accuracy.
 - Optimize vehicle routes for cost-efficient delivery.
 - Provide real-time operational insights via an interactive dashboard.
-![Project Description Screenshot](Annotation 1.png)
+![Project Description Screenshot]([Annotation 1.png](https://github.com/pradeep-1995/Intelligent-Logistics-Management-System/blob/c6574c2a325965564866b58f6d519e152ac66abd/Annotation%201.png))
 ---
 
 ## 🌟 Key Features

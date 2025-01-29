@@ -11,7 +11,7 @@ The Intelligent Logistics Management System (ILMS) leverages cutting-edge techno
 - Predict delivery times with higher accuracy.
 - Optimize vehicle routes for cost-efficient delivery.
 - Provide real-time operational insights via an interactive dashboard.
-![Project Description Screenshot]([Annotation 1.png](https://github.com/pradeep-1995/Intelligent-Logistics-Management-System/blob/c6574c2a325965564866b58f6d519e152ac66abd/Annotation%201.png))
+![Project Description Screenshot](https://github.com/pradeep-1995/Intelligent-Logistics-Management-System/blob/main/Annotation%201.png)
 ---
 
 ## 🌟 Key Features
@@ -21,8 +21,8 @@ The Intelligent Logistics Management System (ILMS) leverages cutting-edge techno
 - **Accuracy Improvement**: Enhanced delivery time estimation accuracy by 25%, resulting in improved customer satisfaction.
   
 **📷 Example Screenshot:**  
-![Prediction Module Screenshot](Annotation 2.png)
-![Prediction Module Screenshot](Annotation 3.png)
+![Prediction Module Screenshot](https://github.com/pradeep-1995/Intelligent-Logistics-Management-System/blob/main/Annotation%202.png)
+![Prediction Module Screenshot](https://github.com/pradeep-1995/Intelligent-Logistics-Management-System/blob/main/Annotation%203.png)
 ---
 
 ### 🛣️ Route Optimization
@@ -33,7 +33,7 @@ The Intelligent Logistics Management System (ILMS) leverages cutting-edge techno
 - **Impact**: Reduced delivery times per route by 15% and operational costs by 20%.
 
 **📷 Example Screenshot:**  
-![Route Optimization Screenshot](Annotation 4.png)
+![Route Optimization Screenshot](https://github.com/pradeep-1995/Intelligent-Logistics-Management-System/blob/main/Annotation%204.png)
 
 ---
 
@@ -45,7 +45,7 @@ The Intelligent Logistics Management System (ILMS) leverages cutting-edge techno
 - **Transparency**: Increased operational transparency and efficiency by 30%.
 
 **📷 Example Screenshot:**  
-![Monitoring Dashboard Screenshot](Annotation 5.png)
+![Monitoring Dashboard Screenshot](https://github.com/pradeep-1995/Intelligent-Logistics-Management-System/blob/main/Annotation%205.png)
 
 ---
 
